@@ -1,0 +1,7 @@
+Add a database (SQLite/PostgreSQL) for better data management.
+
+Create a web interface using Flask/Django.
+
+Add user authentication for multiple users.
+
+Integrate with APIs for currency conversion or bank transactions.
