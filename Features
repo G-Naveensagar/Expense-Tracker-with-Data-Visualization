@@ -1,0 +1,9 @@
+Add Expenses: Record expenses with details like date, category, amount, and description.
+
+View Expenses: Display all expenses in a tabular format.
+
+Data Visualization: Generate pie charts (expense distribution by category) and bar charts (monthly expenses).
+
+Save/Load Data: Save expenses to a CSV file and load them back when the program restarts.
+
+Monthly Summary: View a summary of total expenses for each month.
